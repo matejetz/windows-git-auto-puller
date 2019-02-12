@@ -1,0 +1,2 @@
+C:\Users\%USERNAME%\Path\to\Repo1
+C:\Users\%USERNAME%\Path\to\Repo2
